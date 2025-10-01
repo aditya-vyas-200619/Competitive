@@ -1,0 +1,1 @@
+you have n stairs and you can climb one,two or three stairs at a time

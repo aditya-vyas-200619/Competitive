@@ -1,0 +1,4 @@
+What and Why?
+
+--> Recursion can be used as an alternative approach to loops.
+like while finding factorial we use loops, we can also use recursion. Ex- f(n) = n x f(n-1);

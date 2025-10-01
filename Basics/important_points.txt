@@ -1,0 +1,10 @@
+1)- The variables commonly used in C functions are not available to all the functions in a program.,
+2)- To return the control back to the calling function we must use the keyword return.
+3)- The same variable names can be used in different functions without any conflict.
+4)- It is not necessary for a function to contain a return statement.
+5)- A function may contain more than one statements.
+6)- Each return statemnt in a function may return a different value.
+7)- A function can still be useful even if you don't passany arguments to it and the function doesn't return any value back.
+8)- Same names cannot be used for different functions without any conflict.
+9)- A function may be called more than once from any other function.
+10)- It is necessary for a function return some value.
