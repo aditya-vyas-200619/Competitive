@@ -14,15 +14,24 @@ int main()
     // char chr = (char)x;
     // printf("%c",chr);
 
-    char word[]= "College Wallah is the best!";
+    //char word[]= "College Wallah is the best!";
     // word[0] ='M';
     // word[1]=97;
-    int i=0;
+    //int i=0;
     // while(word[i]!='\0')
     // {
     //     printf("%c",i[word]);  //you can also write this.
     //     i++;
     // }
-    printf("%s",word);
+    //printf("%s",word);
+
+    // char* str[]="Resonance";
+    // str[0]='N';
+    // printf("%s",str);
+
+
+    char str[] = "Resonance";
+    str = "Allen";  //You can't change them in one go.
+    printf("%s",str);
     return 0;
 }
